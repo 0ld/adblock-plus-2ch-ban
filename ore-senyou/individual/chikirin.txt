@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="blogos.com/blogger/chikirin"]
 ##a[href*="hatena.ne.jp/Chikirin"]
 ##a[href*="twitter.com/InsideCHIKIRIN"]

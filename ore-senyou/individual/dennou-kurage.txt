@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="dennou-kurage.hatenablog.com"]
 ##a[href*="dennou-kurage.com"]
 ##a[href*="hatena.ne.jp/dennou-kurage"]

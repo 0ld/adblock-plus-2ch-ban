@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="hatena.ne.jp/dankogai"]
 ##a[href*="gihyo.jp/dev/serial/01/alpha-geek"]
 ##a[href*="blog.livedoor.jp/dankogai"]

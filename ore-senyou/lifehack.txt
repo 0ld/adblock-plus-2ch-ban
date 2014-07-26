@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="lifehacking.jp"]
 ##a[href*="itlifehack.jp"]
 ##a[href*="dain.cocolog-nifty.com"]

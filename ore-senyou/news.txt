@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="news.nicovideo.jp"]
 ##a[href*="www.huffingtonpost.jp"]
 ##a[href*="news.mixi.jp"]
@@ -9,4 +10,3 @@
 ##a[href*="eiga.com"]
 ##a[href*="bizmakoto.jp"]
 ##a[href*="www.j-cast.com"]
-

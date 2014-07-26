@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ##a[href*="www.at-weblog.com"]
 ##a[href*="www.iphone-girl.jp"]
 ##a[href*="netafull.net"]
