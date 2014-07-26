@@ -1,0 +1,6 @@
+##a[href*="blogos.com/blogger/chikirin"]
+##a[href*="hatena.ne.jp/Chikirin"]
+##a[href*="twitter.com/InsideCHIKIRIN"]
+##a[href*="blogos.com%2Fblogger%2Fchikirin"]
+##a[href*="hatena.ne.jp%2FChikirin"]
+##a[href*="twitter.com%2FInsideCHIKIRIN"]

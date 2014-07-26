@@ -1,0 +1,3 @@
+##a[href*="ikedanobuo.livedoor.biz"]
+##a[href*="www.agora-web.jp"]
+##a[href*="www.newsweekjapan.jp/column/ikeda"]

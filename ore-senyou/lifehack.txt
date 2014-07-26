@@ -1,0 +1,7 @@
+##a[href*="lifehacking.jp"]
+##a[href*="itlifehack.jp"]
+##a[href*="dain.cocolog-nifty.com"]
+##a[href*="www.lifehacker.jp"]
+##a[href*="kosstyle.blog16.fc2.com"]
+##a[href*="tamkaism.com"]
+##a[href*="www.ex-ma.com"]

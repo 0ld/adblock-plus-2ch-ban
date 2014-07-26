@@ -1,0 +1,6 @@
+##a[href*="blog.livedoor.jp/vitaminw"]
+##a[href*="www.so-net.ne.jp/antlers"]
+##a[href*="www.nikkansports.com"]
+##a[href*="www.soccer-king.jp"]
+##a[href*="www.sanga-fc.jp"]
+!鹿島アントラーズと京都サンガF.C.が入っていますが特に理由はないです

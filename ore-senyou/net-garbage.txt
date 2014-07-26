@@ -1,0 +1,1 @@
+##a[href*="matome.naver.jp"]

@@ -1,0 +1,4 @@
+##a[href*="dennou-kurage.hatenablog.com"]
+##a[href*="dennou-kurage.com"]
+##a[href*="hatena.ne.jp/dennou-kurage"]
+##a[href*="hatena.ne.jp%2Fdennou-kurage"]

@@ -1,0 +1,12 @@
+##a[href*="news.nicovideo.jp"]
+##a[href*="www.huffingtonpost.jp"]
+##a[href*="news.mixi.jp"]
+##a[href*="www.news-postseven.com"]
+##a[href*="irorio.jp"]
+##a[href*="www.47news.jp"]
+##a[href*="gendai.ismedia.jp"]
+##a[href*="www.4gamer.net"]
+##a[href*="eiga.com"]
+##a[href*="bizmakoto.jp"]
+##a[href*="www.j-cast.com"]
+

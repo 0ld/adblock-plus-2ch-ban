@@ -1,0 +1,8 @@
+##a[href*="inkyodanshi21.com"]
+##a[href*="www.ikedahayato.com"]
+##a[href*="twitter.com/IHayato"]
+##a[href*="blogos.com/tag/イケダハヤト/"]
+##a[href*="www.facebook.com/ikedahayatocom"]
+##a[href*="blogos.com%2Ftag%2Fイケダハヤト%2F"]
+##a[href*="twitter.com%2FIHayato"]
+##a[href*="www.facebook.com%2Fikedahayatocom"]
