@@ -3,3 +3,5 @@
 ##a[href*="www.iphone-girl.jp"]
 ##a[href*="netafull.net"]
 ##a[href*="appllio.com"]
+##a[href*="megane84.com"]
+

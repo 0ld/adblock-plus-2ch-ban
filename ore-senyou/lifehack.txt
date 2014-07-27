@@ -6,3 +6,8 @@
 ##a[href*="kosstyle.blog16.fc2.com"]
 ##a[href*="tamkaism.com"]
 ##a[href*="www.ex-ma.com"]
+##a[href*="dearlife.biz"]
+##a[href*="www.danshihack.com"]
+
+
+
