@@ -11,3 +11,7 @@
 ##a[href*="www.yukawanet.com"]
 ##a[href*="omocoro.jp"]
 ##a[href*="kyoko-np.net"]
+##a[href*="errormessagescreen.tumblr.com"]
+
+
+
