@@ -9,3 +9,7 @@
 ##a[href*="hatena.ne.jp%2Fdankogai"]
 ##a[href*="twitter.com%2Fdankogai"]
 ##a[href*="gihyo.jp%2Fdev%2Fserial%2F01%2Falpha-geek"]
+##a[href*="qiita.com/dankogai"]
+##a[href*="qiita.com%2Fdankogai"]
+
+
