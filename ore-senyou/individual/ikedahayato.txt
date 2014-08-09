@@ -7,3 +7,4 @@
 ##a[href*="blogos.com%2Ftag%2Fイケダハヤト%2F"]
 ##a[href*="twitter.com%2FIHayato"]
 ##a[href*="www.facebook.com%2Fikedahayatocom"]
+##a[href*="blog.livedoor.jp/ihayato"]

@@ -37,5 +37,6 @@
 ##a[href*="whats.be"]
 ##a[href*="www.educeed.com"]
 ##a[href*="gori.me"]
+##a[href*="coresugo.com"]
 
 
