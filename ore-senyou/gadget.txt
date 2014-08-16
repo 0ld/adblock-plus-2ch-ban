@@ -5,4 +5,6 @@
 ##a[href*="appllio.com"]
 ##a[href*="megane84.com"]
 ##a[href*="estpolis.com"]
+##a[href*="www.appps.jp"]
+##a[href*="iphone-mania.jp"]
 

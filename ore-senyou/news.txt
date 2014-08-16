@@ -10,3 +10,9 @@
 ##a[href*="eiga.com"]
 ##a[href*="bizmakoto.jp"]
 ##a[href*="www.j-cast.com"]
+##a[href*="headlines.yahoo.co.jp"]
+##a[href*="news.yahoo.co.jp"]
+##a[href*="japan.cnet.com"]
+##a[href*="toyokeizai.net"]
+
+

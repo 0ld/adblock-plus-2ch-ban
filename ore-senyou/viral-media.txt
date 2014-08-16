@@ -38,5 +38,5 @@
 ##a[href*="www.educeed.com"]
 ##a[href*="gori.me"]
 ##a[href*="coresugo.com"]
-
+##a[href*="netgeek.biz"]
 
