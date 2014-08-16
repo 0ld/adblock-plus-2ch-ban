@@ -1,3 +1,5 @@
 [Adblock Plus 2.3.1]
 ##a[href*="www.tv-tokyo.co.jp"]
 ##a[href*="www.ntv.co.jp"]
+##a[href*="www.fujitv.co.jp"]
+

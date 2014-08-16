@@ -1,0 +1,3 @@
+[Adblock Plus 2.3.1]
+##a[href*="wirelesswire.jp/london_wave"]
+##a[href*="twitter.com/May_Roma"]
