@@ -7,6 +7,8 @@
 ##a[href*="estpolis.com"]
 ##a[href*="www.appps.jp"]
 ##a[href*="iphone-mania.jp"]
+##a[href*="www.kototoka.com/"]
+##a[href*="masayo.info"]
 
 ##a[href*="lifehacking.jp"]
 ##a[href*="itlifehack.jp"]
@@ -37,6 +39,7 @@
 ##a[href*="japan.cnet.com"]
 ##a[href*="toyokeizai.net"]
 ##a[href*="wirelesswire.jp"]
+##a[href*="www.nikkei.com"]
 
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
