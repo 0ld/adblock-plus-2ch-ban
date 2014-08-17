@@ -7,4 +7,6 @@
 ##a[href*="estpolis.com"]
 ##a[href*="www.appps.jp"]
 ##a[href*="iphone-mania.jp"]
+##a[href*="www.kototoka.com/"]
+##a[href*="masayo.info"]
 

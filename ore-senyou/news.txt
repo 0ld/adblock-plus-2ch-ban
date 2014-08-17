@@ -15,5 +15,6 @@
 ##a[href*="japan.cnet.com"]
 ##a[href*="toyokeizai.net"]
 ##a[href*="wirelesswire.jp"]
+##a[href*="www.nikkei.com"]
 
 
