@@ -9,6 +9,9 @@
 ##a[href*="iphone-mania.jp"]
 ##a[href*="www.kototoka.com/"]
 ##a[href*="masayo.info"]
+##a[href*="k-tai.impress.co.jp"]
+##a[href*="juggly.cn"]
+
 
 ##a[href*="lifehacking.jp"]
 ##a[href*="itlifehack.jp"]
@@ -40,7 +43,11 @@
 ##a[href*="toyokeizai.net"]
 ##a[href*="wirelesswire.jp"]
 ##a[href*="www.nikkei.com"]
-
+##a[href*="news.ameba.jp"]
+##a[href*="president.jp"]
+##a[href*="www.asahi.com"]
+##a[href*="news.livedoor.com"]
+##a[href*="www.chinabusiness-headline.com"]
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
@@ -61,7 +68,7 @@
 ##a[href*="omocoro.jp"]
 ##a[href*="kyoko-np.net"]
 ##a[href*="errormessagescreen.tumblr.com"]
-
+##a[href*="dailynewsagency.com"]
 
 
 ##a[href*="www.rui.jp"]
@@ -109,6 +116,20 @@
 ##a[href*="gori.me"]
 ##a[href*="coresugo.com"]
 ##a[href*="netgeek.biz"]
+##a[href*="re-colle.com"]
+##a[href*="buzznews.asia"]
+##a[href*="virates.com"]
+##a[href*="a-mp.jp"]
+##a[href*="4meee.com"]
+##a[href*="grapee.jp"]
+##a[href*="selecty.me"]
+##a[href*="buzzmag.jp"]
+##a[href*="corobuzz.com"]
+
+
+
+
+
 
 ##a[href*="blogos.com/blogger/chikirin"]
 ##a[href*="hatena.ne.jp/Chikirin"]
@@ -128,7 +149,8 @@
 ##a[href*="gihyo.jp%2Fdev%2Fserial%2F01%2Falpha-geek"]
 ##a[href*="qiita.com/dankogai"]
 ##a[href*="qiita.com%2Fdankogai"]
-
+##a[href*="dankogai"]
+##a[href*="dan_kogai"]
 
 ##a[href*="dennou-kurage.hatenablog.com"]
 ##a[href*="dennou-kurage.com"]
