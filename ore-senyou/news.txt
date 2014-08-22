@@ -16,5 +16,9 @@
 ##a[href*="toyokeizai.net"]
 ##a[href*="wirelesswire.jp"]
 ##a[href*="www.nikkei.com"]
-
+##a[href*="news.ameba.jp"]
+##a[href*="president.jp"]
+##a[href*="www.asahi.com"]
+##a[href*="news.livedoor.com"]
+##a[href*="www.chinabusiness-headline.com"]
 

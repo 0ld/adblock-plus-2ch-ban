@@ -12,6 +12,6 @@
 ##a[href*="omocoro.jp"]
 ##a[href*="kyoko-np.net"]
 ##a[href*="errormessagescreen.tumblr.com"]
-
+##a[href*="dailynewsagency.com"]
 
 

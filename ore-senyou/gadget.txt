@@ -9,4 +9,7 @@
 ##a[href*="iphone-mania.jp"]
 ##a[href*="www.kototoka.com/"]
 ##a[href*="masayo.info"]
+##a[href*="k-tai.impress.co.jp"]
+##a[href*="juggly.cn"]
+
 
