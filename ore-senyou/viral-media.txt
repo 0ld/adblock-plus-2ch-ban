@@ -48,7 +48,8 @@
 ##a[href*="selecty.me"]
 ##a[href*="buzzmag.jp"]
 ##a[href*="corobuzz.com"]
-
+##a[href*="entamenu.com"]
+##a[href*="rocketnews24.com"]
 
 
 
