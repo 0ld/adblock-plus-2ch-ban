@@ -9,5 +9,5 @@
 ##a[href*="dearlife.biz"]
 ##a[href*="www.danshihack.com"]
 ##a[href*="visionmission.hatenablog.com"]
-
+##a[href*="dying.jp"]
 
