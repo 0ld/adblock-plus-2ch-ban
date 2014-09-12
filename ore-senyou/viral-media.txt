@@ -50,7 +50,7 @@
 ##a[href*="corobuzz.com"]
 ##a[href*="entamenu.com"]
 ##a[href*="rocketnews24.com"]
-
+##a[href*="kai-you.net"]
 
 
 

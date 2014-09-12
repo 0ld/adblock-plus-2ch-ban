@@ -4,4 +4,6 @@
 ##a[href*="www.nikkansports.com"]
 ##a[href*="www.soccer-king.jp"]
 ##a[href*="www.sanga-fc.jp"]
+##a[href*="f1-gate.com"]
 !鹿島アントラーズと京都サンガF.C.が入っていますが特に理由はないです
+

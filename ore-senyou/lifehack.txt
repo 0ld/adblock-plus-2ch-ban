@@ -8,6 +8,6 @@
 ##a[href*="www.ex-ma.com"]
 ##a[href*="dearlife.biz"]
 ##a[href*="www.danshihack.com"]
-
+##a[href*="visionmission.hatenablog.com"]
 
 

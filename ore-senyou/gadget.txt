@@ -11,5 +11,10 @@
 ##a[href*="masayo.info"]
 ##a[href*="k-tai.impress.co.jp"]
 ##a[href*="juggly.cn"]
+##a[href*="wired.jp"]
+##a[href*="smhn.info"]
+##a[href*="www.inside-games.jp"]
+
+
 
 
