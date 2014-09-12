@@ -48,6 +48,10 @@
 ##a[href*="www.asahi.com"]
 ##a[href*="news.livedoor.com"]
 ##a[href*="www.chinabusiness-headline.com"]
+##a[href*="www.tokyo-sports.co.jp"]
+##a[href*="www.sankeibiz.jp"]
+
+
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
@@ -125,7 +129,8 @@
 ##a[href*="selecty.me"]
 ##a[href*="buzzmag.jp"]
 ##a[href*="corobuzz.com"]
-
+##a[href*="entamenu.com"]
+##a[href*="rocketnews24.com"]
 
 
 
@@ -156,6 +161,18 @@
 ##a[href*="dennou-kurage.com"]
 ##a[href*="hatena.ne.jp/dennou-kurage"]
 ##a[href*="hatena.ne.jp%2Fdennou-kurage"]
+##a[href*="horiemon.com"]
+##a[href*="twitter.com/takapon_jp"]
+##a[href*="www.facebook.com/horieofficial"]
+##a[href*="plus.google.com/108733450092072842592/posts"]
+##a[href*="www.facebook.com/takafumi.horie"]
+##a[href*="www.facebook.com/horiemillion"]
+##a[href*="twitter.com/HORIEMON_COM"]
+##a[href*="www.pinterest.com/takaponjp"]
+##a[href*="instagram.com/takapon_jp"]
+##a[href*="gunosy.com/takapon_jp"]
+
+
 ##a[href*="inkyodanshi21.com"]
 ##a[href*="www.ikedahayato.com"]
 ##a[href*="twitter.com/IHayato"]
@@ -174,3 +191,6 @@
 ##a[href*="twitter.com/ttachi"]
 ##a[href*="facebook.com/ttachi"]
 ##a[href*="facebook.com/nosecondlife"]
+##a[href*="thestartup.jp"]
+##a[href*="twitter.com/umekida"]
+
