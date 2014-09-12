@@ -11,6 +11,11 @@
 ##a[href*="masayo.info"]
 ##a[href*="k-tai.impress.co.jp"]
 ##a[href*="juggly.cn"]
+##a[href*="wired.jp"]
+##a[href*="smhn.info"]
+##a[href*="www.inside-games.jp"]
+
+
 
 
 ##a[href*="lifehacking.jp"]
@@ -22,7 +27,7 @@
 ##a[href*="www.ex-ma.com"]
 ##a[href*="dearlife.biz"]
 ##a[href*="www.danshihack.com"]
-
+##a[href*="visionmission.hatenablog.com"]
 
 
 ##a[href*="matome.naver.jp"]
@@ -58,7 +63,9 @@
 ##a[href*="www.nikkansports.com"]
 ##a[href*="www.soccer-king.jp"]
 ##a[href*="www.sanga-fc.jp"]
+##a[href*="f1-gate.com"]
 !鹿島アントラーズと京都サンガF.C.が入っていますが特に理由はないです
+
 ##a[href*="labaq.com"]
 ##a[href*="bokete.jp"]
 ##a[href*="gihyo.jp/dev/serial/01/funny-play"]
@@ -73,6 +80,10 @@
 ##a[href*="kyoko-np.net"]
 ##a[href*="errormessagescreen.tumblr.com"]
 ##a[href*="dailynewsagency.com"]
+##a[href*="attrip.jp"]
+##a[href*="uncyclopedia.info"]
+##a[href*="ansaikuropedia.org"]
+
 
 
 ##a[href*="www.rui.jp"]
@@ -131,7 +142,7 @@
 ##a[href*="corobuzz.com"]
 ##a[href*="entamenu.com"]
 ##a[href*="rocketnews24.com"]
-
+##a[href*="kai-you.net"]
 
 
 
