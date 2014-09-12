@@ -1,0 +1,13 @@
+[Adblock Plus 2.3.1]
+##a[href*="horiemon.com"]
+##a[href*="twitter.com/takapon_jp"]
+##a[href*="www.facebook.com/horieofficial"]
+##a[href*="plus.google.com/108733450092072842592/posts"]
+##a[href*="www.facebook.com/takafumi.horie"]
+##a[href*="www.facebook.com/horiemillion"]
+##a[href*="twitter.com/HORIEMON_COM"]
+##a[href*="www.pinterest.com/takaponjp"]
+##a[href*="instagram.com/takapon_jp"]
+##a[href*="gunosy.com/takapon_jp"]
+
+

@@ -1,0 +1,4 @@
+[Adblock Plus 2.3.1]
+##a[href*="thestartup.jp"]
+##a[href*="twitter.com/umekida"]
+

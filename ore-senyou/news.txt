@@ -21,4 +21,8 @@
 ##a[href*="www.asahi.com"]
 ##a[href*="news.livedoor.com"]
 ##a[href*="www.chinabusiness-headline.com"]
+##a[href*="www.tokyo-sports.co.jp"]
+##a[href*="www.sankeibiz.jp"]
+
+
 
