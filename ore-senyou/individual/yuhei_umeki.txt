@@ -1,4 +1,5 @@
 [Adblock Plus 2.3.1]
 ##a[href*="thestartup.jp"]
 ##a[href*="twitter.com/umekida"]
+##a[href*="synapse.am/contents/monthly/yuhei.umeki"]
 

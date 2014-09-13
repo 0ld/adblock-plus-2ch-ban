@@ -14,7 +14,7 @@
 ##a[href*="wired.jp"]
 ##a[href*="smhn.info"]
 ##a[href*="www.inside-games.jp"]
-
+##a[href*="heatapp.jp"]
 
 
 

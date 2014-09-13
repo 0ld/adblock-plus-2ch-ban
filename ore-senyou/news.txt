@@ -23,6 +23,6 @@
 ##a[href*="www.chinabusiness-headline.com"]
 ##a[href*="www.tokyo-sports.co.jp"]
 ##a[href*="www.sankeibiz.jp"]
-
+##a[href*="news.infoseek.co.jp"]
 
 
