@@ -2887,3 +2887,8 @@
 ##a[href*="pachinko-slot.doorblog.jp"]
 ##a[href*="sword-art-online.biz"]
 ##a[href*="padpad.blog.jp"]
+##a[href*="monsoku.net"]
+##a[href*="huntersokuho.com"]
+##a[href*="xn--o9j0bk5p4a0utdw412cco4a.biz"]
+##a[href*="shirokorekouryaku.blog.fc2.com"]
+##a[href*=".2chan.net/"]

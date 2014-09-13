@@ -14,7 +14,7 @@
 ##a[href*="wired.jp"]
 ##a[href*="smhn.info"]
 ##a[href*="www.inside-games.jp"]
-
+##a[href*="heatapp.jp"]
 
 
 
@@ -28,7 +28,7 @@
 ##a[href*="dearlife.biz"]
 ##a[href*="www.danshihack.com"]
 ##a[href*="visionmission.hatenablog.com"]
-
+##a[href*="dying.jp"]
 
 ##a[href*="matome.naver.jp"]
 ##a[href*="news.nicovideo.jp"]
@@ -55,7 +55,7 @@
 ##a[href*="www.chinabusiness-headline.com"]
 ##a[href*="www.tokyo-sports.co.jp"]
 ##a[href*="www.sankeibiz.jp"]
-
+##a[href*="news.infoseek.co.jp"]
 
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
@@ -147,6 +147,32 @@
 
 
 
+##a[href*="urasunday.com"]
+##a[href*="tonarinoyj.jp"]
+##a[href*="tsubame-jnr.bglb.jp/~nounaihasei"]
+##a[href*="dka-hero.com"]
+##a[href*="www.geocities.jp/makidontstop2"]
+##a[href*="niitosyayou.sitemix.jp"]
+##a[href*="www.h2.dion.ne.jp/~nomineko"]
+##a[href*="www.gahako.com"]
+##a[href*="galaxyheavyblow.web.fc2.com"]
+##a[href*="www.fides.dti.ne.jp/~mikage"]
+##a[href*="www.geocities.jp/nyumen01"]
+##a[href*="ika0aki.web.fc2.com"]
+##a[href*="akiika.com"]
+##a[href*="nagurigaki.web.fc2.com"]
+##a[href*="neetsha.jp"]
+##a[href*="books.vipdoor.info"]
+##a[href*="yw.vipdoor.info"]
+##a[href*="weeklymouse.com"]
+##a[href*="extlib.net"]
+##a[href*="www.comic-r.net"]
+##a[href*="www.gctv.ne.jp/~yachi"]
+##a[href*="cfan.chu.jp"]
+##a[href*="www.webcomicranking.com"]
+
+
+
 ##a[href*="blogos.com/blogger/chikirin"]
 ##a[href*="hatena.ne.jp/Chikirin"]
 ##a[href*="twitter.com/InsideCHIKIRIN"]
@@ -204,4 +230,5 @@
 ##a[href*="facebook.com/nosecondlife"]
 ##a[href*="thestartup.jp"]
 ##a[href*="twitter.com/umekida"]
+##a[href*="synapse.am/contents/monthly/yuhei.umeki"]
 
