@@ -24,5 +24,6 @@
 ##a[href*="www.tokyo-sports.co.jp"]
 ##a[href*="www.sankeibiz.jp"]
 ##a[href*="news.infoseek.co.jp"]
+##a[href*="no-border.co.jp"]
 
 

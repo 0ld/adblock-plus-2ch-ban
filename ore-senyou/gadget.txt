@@ -15,6 +15,7 @@
 ##a[href*="smhn.info"]
 ##a[href*="www.inside-games.jp"]
 ##a[href*="heatapp.jp"]
-
+##a[href*="game8.jp"]
+##a[href*="www.macotakara.jp"]
 
 
