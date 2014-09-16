@@ -10,4 +10,7 @@
 ##a[href*="www.danshihack.com"]
 ##a[href*="visionmission.hatenablog.com"]
 ##a[href*="dying.jp"]
+##a[href*="www.interiorhacks.com"]
+
+
 

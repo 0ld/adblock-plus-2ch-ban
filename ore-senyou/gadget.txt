@@ -17,5 +17,9 @@
 ##a[href*="heatapp.jp"]
 ##a[href*="game8.jp"]
 ##a[href*="www.macotakara.jp"]
+##a[href*="taisy0.com"]
+##a[href*="dc.watch.impress.co.jp"]
+##a[href*="www.ipodstyle.jp"]
+
 
 

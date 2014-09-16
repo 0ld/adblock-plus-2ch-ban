@@ -22,6 +22,11 @@
 ##a[href*="www.gctv.ne.jp/~yachi"]
 ##a[href*="cfan.chu.jp"]
 ##a[href*="www.webcomicranking.com"]
+##a[href*="t-taks.com"]
+##a[href*="twitter.com/taks_Zxim"]
+
+
+
 
 
 
