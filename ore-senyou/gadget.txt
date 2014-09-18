@@ -20,6 +20,6 @@
 ##a[href*="taisy0.com"]
 ##a[href*="dc.watch.impress.co.jp"]
 ##a[href*="www.ipodstyle.jp"]
-
-
+##a[href*="www.appbank.net"]
+##a[href*="av.watch.impress.co.jp"]
 

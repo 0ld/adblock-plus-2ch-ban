@@ -25,5 +25,8 @@
 ##a[href*="www.sankeibiz.jp"]
 ##a[href*="news.infoseek.co.jp"]
 ##a[href*="no-border.co.jp"]
-
+##a[href*="www.afpbb.com"]
+##a[href*="www.okinawatimes.co.jp"]
+##a[href*="newsbiz.yahoo.co.jp"]
+##a[href*="sankei.jp.msn.com"]
 
