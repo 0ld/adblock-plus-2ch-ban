@@ -20,8 +20,8 @@
 ##a[href*="taisy0.com"]
 ##a[href*="dc.watch.impress.co.jp"]
 ##a[href*="www.ipodstyle.jp"]
-
-
+##a[href*="www.appbank.net"]
+##a[href*="av.watch.impress.co.jp"]
 
 ##a[href*="lifehacking.jp"]
 ##a[href*="itlifehack.jp"]
@@ -35,6 +35,11 @@
 ##a[href*="visionmission.hatenablog.com"]
 ##a[href*="dying.jp"]
 ##a[href*="www.interiorhacks.com"]
+
+
+
+##a[href*="logmi.jp"]
+
 
 
 
@@ -65,7 +70,10 @@
 ##a[href*="www.sankeibiz.jp"]
 ##a[href*="news.infoseek.co.jp"]
 ##a[href*="no-border.co.jp"]
-
+##a[href*="www.afpbb.com"]
+##a[href*="www.okinawatimes.co.jp"]
+##a[href*="newsbiz.yahoo.co.jp"]
+##a[href*="sankei.jp.msn.com"]
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
