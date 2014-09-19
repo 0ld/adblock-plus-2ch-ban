@@ -22,4 +22,10 @@
 ##a[href*="www.ipodstyle.jp"]
 ##a[href*="www.appbank.net"]
 ##a[href*="av.watch.impress.co.jp"]
+##a[href*="hitoriblog.com"]
+
+
+
+
+
 

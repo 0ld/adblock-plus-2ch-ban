@@ -29,4 +29,7 @@
 ##a[href*="www.okinawatimes.co.jp"]
 ##a[href*="newsbiz.yahoo.co.jp"]
 ##a[href*="sankei.jp.msn.com"]
+##a[href*="www.nikkan-gendai.com"]
+
+
 
