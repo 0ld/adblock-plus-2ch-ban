@@ -22,6 +22,12 @@
 ##a[href*="www.ipodstyle.jp"]
 ##a[href*="www.appbank.net"]
 ##a[href*="av.watch.impress.co.jp"]
+##a[href*="hitoriblog.com"]
+
+
+
+
+
 
 ##a[href*="lifehacking.jp"]
 ##a[href*="itlifehack.jp"]
@@ -74,6 +80,9 @@
 ##a[href*="www.okinawatimes.co.jp"]
 ##a[href*="newsbiz.yahoo.co.jp"]
 ##a[href*="sankei.jp.msn.com"]
+##a[href*="www.nikkan-gendai.com"]
+
+
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
@@ -241,6 +250,10 @@
 ##a[href*="twitter.com%2FIHayato"]
 ##a[href*="www.facebook.com%2Fikedahayatocom"]
 ##a[href*="blog.livedoor.jp/ihayato"]
+##a[href*="www.facebook.com/IkedaHayato"]
+##a[href*="magazine.livedoor.com/magazine/85"]
+##a[href*="twitter.com/ihayato"]
+
 ##a[href*="ikedanobuo.livedoor.biz"]
 ##a[href*="www.agora-web.jp"]
 ##a[href*="www.newsweekjapan.jp/column/ikeda"]

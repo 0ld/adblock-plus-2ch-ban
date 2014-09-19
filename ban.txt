@@ -2923,3 +2923,7 @@
 ##a[href*="kensoku2ch.blog.jp"]
 ##a[href*="occult39.blog.fc2.com"]
 ##a[href*="kintoresokuhou.doorblog.jp"]
+##a[href*="daydream-2ch.blog.jp"]
+##a[href*="monhan-syuukaizyo.doorblog.jp"]
+##a[href*="orixchannel.main.jp"]
+##a[href*="game-news.biz"]
