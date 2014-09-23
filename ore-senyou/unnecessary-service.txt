@@ -1,0 +1,6 @@
+[Adblock Plus 2.3.1]
+##a[href*="yahoo.co.jp"]
+##a[href*="yahoo.com"]
+
+
+

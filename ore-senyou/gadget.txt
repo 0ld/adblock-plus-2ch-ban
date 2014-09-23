@@ -23,8 +23,8 @@
 ##a[href*="www.appbank.net"]
 ##a[href*="av.watch.impress.co.jp"]
 ##a[href*="hitoriblog.com"]
-
-
+##a[href*="gadget-shot.com"]
+##a[href*="www.itmedia.co.jp/news"]
 
 
 

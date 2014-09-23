@@ -30,6 +30,13 @@
 ##a[href*="newsbiz.yahoo.co.jp"]
 ##a[href*="sankei.jp.msn.com"]
 ##a[href*="www.nikkan-gendai.com"]
+##a[href*="www.jiji.com"]
+##a[href*="www3.nhk.or.jp/news"]
+##a[href*="japanese.ruvr.ru"]
+##a[href*="ryukyushimpo.jp"]
+##a[href*="www.cnn.co.jp"]
+##a[href*="mainichi.jp"]
+
 
 
 

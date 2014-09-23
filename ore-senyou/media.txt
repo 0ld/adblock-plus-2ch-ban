@@ -1,5 +1,10 @@
 [Adblock Plus 2.3.1]
 ##a[href*="logmi.jp"]
+##a[href*="hrnabi.com"]
+##a[href*="next.rikunabi.com/journal"]
+##a[href*="natalie.mu"]
+##a[href*="biz-journal.jp"]
+
 
 
 
