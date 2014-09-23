@@ -1,4 +1,10 @@
 [Adblock Plus 2.3.1]
+##a[href*="shindoaffiliate.com"]
+##a[href*="ww.cinematoday.jp"]
+
+
+
+
 ##a[href*="www.at-weblog.com"]
 ##a[href*="www.iphone-girl.jp"]
 ##a[href*="netafull.net"]
@@ -23,8 +29,13 @@
 ##a[href*="www.appbank.net"]
 ##a[href*="av.watch.impress.co.jp"]
 ##a[href*="hitoriblog.com"]
+##a[href*="gadget-shot.com"]
+##a[href*="www.itmedia.co.jp/news"]
 
 
+
+
+##a[href*="keibalab.jp"]
 
 
 
@@ -45,6 +56,11 @@
 
 
 ##a[href*="logmi.jp"]
+##a[href*="hrnabi.com"]
+##a[href*="next.rikunabi.com/journal"]
+##a[href*="natalie.mu"]
+##a[href*="biz-journal.jp"]
+
 
 
 
@@ -81,16 +97,29 @@
 ##a[href*="newsbiz.yahoo.co.jp"]
 ##a[href*="sankei.jp.msn.com"]
 ##a[href*="www.nikkan-gendai.com"]
+##a[href*="www.jiji.com"]
+##a[href*="www3.nhk.or.jp/news"]
+##a[href*="japanese.ruvr.ru"]
+##a[href*="ryukyushimpo.jp"]
+##a[href*="www.cnn.co.jp"]
+##a[href*="mainichi.jp"]
+
 
 
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
-##a[href*="www.nikkansports.com"]
+##a[href*="nikkansports.com"]
 ##a[href*="www.soccer-king.jp"]
 ##a[href*="www.sanga-fc.jp"]
 ##a[href*="f1-gate.com"]
 !鹿島アントラーズと京都サンガF.C.が入っていますが特に理由はないです
+##a[href*="www.shuzo.co.jp"]
+##a[href*="www.hochi.co.jp"]
+##a[href*="www.daily.co.jp"]
+##a[href*="sanspo.com"]
+##a[href*="www.sponichi.co.jp"]
+
 
 ##a[href*="labaq.com"]
 ##a[href*="bokete.jp"]
@@ -116,6 +145,11 @@
 ##a[href*="www.tv-tokyo.co.jp"]
 ##a[href*="www.ntv.co.jp"]
 ##a[href*="www.fujitv.co.jp"]
+
+##a[href*="yahoo.co.jp"]
+##a[href*="yahoo.com"]
+
+
 
 ##a[href*="matomember.net"]
 ##a[href*="tabi-labo.com"]
