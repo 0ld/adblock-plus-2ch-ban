@@ -31,7 +31,7 @@
 ##a[href*="hitoriblog.com"]
 ##a[href*="gadget-shot.com"]
 ##a[href*="www.itmedia.co.jp/news"]
-
+##a[href*="veadardiary.blog29.fc2.com"]
 
 
 
@@ -60,7 +60,7 @@
 ##a[href*="next.rikunabi.com/journal"]
 ##a[href*="natalie.mu"]
 ##a[href*="biz-journal.jp"]
-
+##a[href*="dmm-news.com"]
 
 
 
@@ -138,7 +138,7 @@
 ##a[href*="attrip.jp"]
 ##a[href*="uncyclopedia.info"]
 ##a[href*="ansaikuropedia.org"]
-
+##a[href*="el.jibun.atmarkit.co.jp"]
 
 
 ##a[href*="www.rui.jp"]
