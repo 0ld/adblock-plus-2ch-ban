@@ -16,6 +16,6 @@
 ##a[href*="attrip.jp"]
 ##a[href*="uncyclopedia.info"]
 ##a[href*="ansaikuropedia.org"]
-
+##a[href*="el.jibun.atmarkit.co.jp"]
 
 

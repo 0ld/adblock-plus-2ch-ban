@@ -25,7 +25,7 @@
 ##a[href*="hitoriblog.com"]
 ##a[href*="gadget-shot.com"]
 ##a[href*="www.itmedia.co.jp/news"]
-
+##a[href*="veadardiary.blog29.fc2.com"]
 
 
 
