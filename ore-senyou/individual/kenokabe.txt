@@ -1,0 +1,8 @@
+[Adblock Plus 2.3.1]
+##a[href*="qiita.com/kenokabe"]
+##a[href*="spacetimeprogramminglanguage.github.io"]
+##a[href*="twittersickuser.blogspot.jp"]
+##a[href*="orange.zero.jp/tikuwa.cat/sc/web/kenokabe.html"]
+##a[href*="ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:FXST"]
+##a[href*="ken-okabe.blogspot.jp"]
+##a[href*="plus.google.com/102413788769460359022"]
