@@ -108,6 +108,9 @@
 
 
 
+##a[href*="www.srockstyle.com"]
+
+
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
 ##a[href*="nikkansports.com"]
