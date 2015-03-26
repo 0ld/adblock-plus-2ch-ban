@@ -109,7 +109,7 @@
 
 
 ##a[href*="www.srockstyle.com"]
-
+##a[href*="www.kab-studio.biz"]
 
 ##a[href*="blog.livedoor.jp/vitaminw"]
 ##a[href*="www.so-net.ne.jp/antlers"]
